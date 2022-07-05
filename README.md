@@ -4,7 +4,7 @@ This is a part of me learning [Web Dev For Beginners](https://microsoft.github.i
 
 ## The Project
 
-I learn how create a bank app without any frameworks. It is deep dive on JavaScript capability and JavaScript alone is amazing. The styles are provide by me. T
+I learn how create a bank app without any frameworks. It is deep dive on JavaScript capability and JavaScript alone is amazing. The styles are provide by me.
 
 ## The Obstacle
 
